@@ -1,0 +1,13 @@
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.exe
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.deps.json
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.dll
+D:\Projekty\implementacja-stosu\src\bin\Debug\netcoreapp3.1\src.pdb
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.csproj.CoreCompileInputs.cache
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.dll
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.pdb
+D:\Projekty\implementacja-stosu\src\obj\Debug\netcoreapp3.1\src.genruntimeconfig.cache
