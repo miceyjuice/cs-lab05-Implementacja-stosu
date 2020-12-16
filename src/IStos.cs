@@ -35,10 +35,14 @@
         //opróżnia stos
         void Clear();
         
+        //obcinanie stosu, zostawiając ok. 10% miejsca
+        void TrimExcess();
+        
         //indekser
         T this[int index] { get; }
 
         //kopiuje i eksportuje stos do tablicy
         T[] ToArray();
+
     }
 }

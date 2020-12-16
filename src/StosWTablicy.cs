@@ -23,6 +23,8 @@ namespace Stos
 
         public void Clear() => szczyt = -1;
 
+        public int TabLength => tab.Length;
+
         public T this[int index] => index > Count - 1 ? throw new IndexOutOfRangeException() : tab[index];
 
         public T Pop() => IsEmpty ? throw new StosEmptyException() : tab[szczyt--];
@@ -49,7 +51,7 @@ namespace Stos
             return temp;
         }
 
-        public void TrimExcess() => Array.Resize(ref tab, (int) ((tab.Length - (tab.Length - szczyt - 1)) * 1.1));
+        public void TrimExcess() => szczyt =  (int) (Count * 0.9 - 1);
 
         private class EnumeratorStosu : IEnumerator<T>
         {
