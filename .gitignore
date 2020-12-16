@@ -1,1 +1,14 @@
 /.idea
+*.dll
+*.pdb
+*.user
+*.cache
+*.cache
+unitTest/obj/Debug/netcoreapp3.1/unitTest.csprojAssemblyReference.cache
+*.txt
+*.CopyComplete
+*.json
+src/obj/Debug/netcoreapp3.1/src.dll
+*.dll
+*.exe
+*.cache

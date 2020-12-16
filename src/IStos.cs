@@ -34,6 +34,9 @@
 
         //opróżnia stos
         void Clear();
+        
+        //indekser
+        T this[int index] { get; }
 
         //kopiuje i eksportuje stos do tablicy
         T[] ToArray();
